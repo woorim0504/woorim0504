@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/react-9ed4ff.svg?style=for-the-badge&logo=Shell&logoColor=0a3750" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woorim)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woorim&layout=compact)
