@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Nice+to+meet+you!&color=0a3750&center=true&vCenter=true)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/react-9ed4ff.svg?style=for-the-badge&logo=#34C534&logoColor=0a3750" />
+<img src="https://img.shields.io/badge/react-9ed4ff.svg?style=for-the-badge&logo=fish-shell&logoColor=0a3750" />
