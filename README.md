@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 <h3 align="center">sample</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/react-9ed4ff.svg?style=for-the-badge&logo=Shell&logoColor=0a3750" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
