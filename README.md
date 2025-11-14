@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://img.shields.io/badge/react-9ed4ff.svg?style=for-the-badge&logo=Shell&logoColor=0a3750" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woorim)](https://github.com/anuraghazra/github-readme-stats)
