@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=9de4ff&height=300&section=footer&text=Hi!%20Welcome&fontSize=90&fontColor=0a3750&desc=Woorim's%20Github&descSize=40&descAlignY=70)
 
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Nice+to+meet+you!&color=0a3750&center=true&vCenter=true)](https://git.io/typing-svg)
 
 <h3 align="center">sample</h3>
