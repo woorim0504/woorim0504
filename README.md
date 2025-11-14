@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=9de4ff&height=300&section=footer&text=Hi!%20Welcome&fontSize=90&fontColor=0a3750&desc=Woorim's%20Github&descSize=40&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=wave&color=9de4ff&height=300&section=footer&text=Hi!%20Welcome&fontSize=90&fontColor=0a3750&desc=Woorim's%20Github&descSize=40&descAlignY=70)
