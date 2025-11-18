@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c++-bee8f6.svg?style=for-the-badge&logo=cplusplus&logoColor=1e2f49" />
 <img src="https://img.shields.io/badge/Java-7ed6e6.svg?style=for-the-badge&logo=javascript&logoColor=083e4a" />
 <img src="https://img.shields.io/badge/Python-cdecf9.svg?style=for-the-badge&logo=python&logoColor=2a4458" />
-<img src="https://img.shields.io/badge/R-5ac8e0.svg?style=for-the-badge&logo=r&logoColor=000000" />
+<img src="https://img.shields.io/badge/R-5ac8e0.svg?style=for-the-badge&logo=r&logoColor=rrggbb" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woorim)](https://github.com/anuraghazra/github-readme-stats)
 
