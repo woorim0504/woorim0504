@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Tech Stack</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/react-9ed4ff.svg?style=for-the-badge&logo=Shell&logoColor=0a3750" />
+<img src="https://img.shields.io/badge/c-9ed4ff.svg?style=for-the-badge&logo=C&logoColor=0a3750" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woorim)](https://github.com/anuraghazra/github-readme-stats)
 
