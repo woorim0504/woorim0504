@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Nice+to+meet+you!&color=0a3750&center=true&vCenter=true)](https://git.io/typing-svg)
 
 <h3>Tech Stack</h3>
-<div align="center">
+
 <img src="https://img.shields.io/badge/c-a7d8f0.svg?style=for-the-badge&logo=C&logoColor=0f3d5e" />
 <img src="https://img.shields.io/badge/Java-7ed6e6.svg?style=for-the-badge&logo=javascript&logoColor=083e4a" />
 <img src="https://img.shields.io/badge/Python-cdecf9.svg?style=for-the-badge&logo=python&logoColor=2a4458" />
