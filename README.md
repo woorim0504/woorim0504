@@ -27,7 +27,6 @@ Tech Stack</h3>
 <img src="https://img.shields.io/badge/R-5ac8e0.svg?style=for-the-badge&logo=r&logoColor=000000" />
 
 Tools</h3>
-<div align="center">
 <img src="https://img.shields.io/badge/GitHub-a7d8f0.svg?style=for-the-badge&logo=github&logoColor=0f3d5e" />
 <img src="https://img.shields.io/badge/Discord-bee8f6.svg?style=for-the-badge&logo=discord&logoColor=1e2f49" />
 <img src="https://img.shields.io/badge/Notion-7ed6e6.svg?style=for-the-badge&logo=notion&logoColor=083e4a" />
