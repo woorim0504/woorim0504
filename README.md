@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 Tech Stack</h3>
 
-<img src="https://img.shields.io/badge/c-a7d8f0.svg?style=for-the-badge&logo=C&logoColor=0f3d5e" />
-<img src="https://img.shields.io/badge/Java-7ed6e6.svg?style=for-the-badge&logo=javascript&logoColor=083e4a" />
+<img src="https://img.shields.io/badge/c-a7d8f0.svg?style=for-the-badge&logo=C&logoColor=0f3d5e" /> <img src="https://img.shields.io/badge/Java-7ed6e6.svg?style=for-the-badge&logo=javascript&logoColor=083e4a" />
 <img src="https://img.shields.io/badge/Python-cdecf9.svg?style=for-the-badge&logo=python&logoColor=2a4458" />
 <img src="https://img.shields.io/badge/R-5ac8e0.svg?style=for-the-badge&logo=r&logoColor=000000" />
 
